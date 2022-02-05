@@ -1,5 +1,3 @@
-*://*.herefwukou.com/*
-*://*.imrys.salesrepresw.xyz/*
 *://*.01mspmd5yalky8.com/*
 *://*.0qqifpz0sjwk.top/*
 *://*.1aurl.net/*
@@ -1353,3 +1351,5 @@
 *://*.zmnkduay.com/*
 *://*.zuphaims.com/*
 *://*.lnhdlukiketg.com/*
+*://*.herefwukou.com/*
+*://*.imrys.salesrepresw.xyz/*
