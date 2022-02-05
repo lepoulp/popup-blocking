@@ -1352,3 +1352,4 @@
 *://*.zestradar.com/*
 *://*.zmnkduay.com/*
 *://*.zuphaims.com/*
+*://*.lnhdlukiketg.com/*
