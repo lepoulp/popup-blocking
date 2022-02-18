@@ -1354,3 +1354,4 @@
 *://*.herefwukou.com/*
 *://*.imrys.salesrepresw.xyz/*
 *://*.aluationiam.com/*
+*://*.adskeeper.com/*
