@@ -1355,3 +1355,4 @@
 *://*.imrys.salesrepresw.xyz/*
 *://*.aluationiam.com/*
 *://*.adskeeper.com/*
+*://*.adskeeper.co.uk/*
