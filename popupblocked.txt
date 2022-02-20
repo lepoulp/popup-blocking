@@ -1130,7 +1130,6 @@
 *://*.straitreedanimated.com/*
 *://*.streaming-dev.adswizz.com/*
 *://*.streaming.adswizz.com/*
-*://*.streamtape.com/*
 *://*.stretchingcognitioncommission.com/*
 *://*.stripchat.com/*
 *://*.studabsently.com/*
