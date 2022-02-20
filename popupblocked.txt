@@ -1357,3 +1357,4 @@
 *://*.adjustific.xyz/*
 *://*.launchingonsetwhirlwind.com/*
 *://*.skillravageintrusive.com/*
+*://*.ugroocuw.net/*
