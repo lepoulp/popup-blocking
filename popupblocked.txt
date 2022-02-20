@@ -1357,4 +1357,4 @@
 *://*.adskeeper.co.uk/*
 *://*.adjustific.xyz/*
 *://*.launchingonsetwhirlwind.com/*
-*://*.animegamesus.com/*
+*://*.skillravageintrusive.com/*
