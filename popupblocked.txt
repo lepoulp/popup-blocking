@@ -1338,7 +1338,6 @@
 *://*.ycurrentjobis.biz/*
 *://*.yofdifferents.biz/*
 *://*.youradexchange.com/*
-*://*.youtu.be/*
 *://*.youtube.cleverads.vn/*
 *://*.ytb.click/*
 *://*.z.cdn.trafficdok.com/*
@@ -1356,3 +1355,4 @@
 *://*.aluationiam.com/*
 *://*.adskeeper.com/*
 *://*.adskeeper.co.uk/*
+*://*.adjustific.xyz/*
