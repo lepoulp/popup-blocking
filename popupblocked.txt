@@ -1486,3 +1486,4 @@
 *://*.caspar-hun.com/*
 *://*.ntsiwodere.top/*
 *://*.sentineldiscordmm.com/*
+*://*.ismovernm.xyz/*
