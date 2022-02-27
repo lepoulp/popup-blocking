@@ -1487,3 +1487,4 @@
 *://*.ntsiwodere.top/*
 *://*.sentineldiscordmm.com/*
 *://*.ismovernm.xyz/*
+*://*.ernmentsec.xyz/*
