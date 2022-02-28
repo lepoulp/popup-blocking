@@ -1488,3 +1488,4 @@
 *://*.sentineldiscordmm.com/*
 *://*.ismovernm.xyz/*
 *://*.ernmentsec.xyz/*
+*://*.drumimaring.xyz/*
