@@ -1489,3 +1489,5 @@
 *://*.ismovernm.xyz/*
 *://*.ernmentsec.xyz/*
 *://*.drumimaring.xyz/*
+*://*.itiontowri.com/*
+*://*.riesmyste.xyz/*
