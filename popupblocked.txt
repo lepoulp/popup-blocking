@@ -1491,3 +1491,4 @@
 *://*.drumimaring.xyz/*
 *://*.itiontowri.com/*
 *://*.riesmyste.xyz/*
+*://*.erdeally.com/*
