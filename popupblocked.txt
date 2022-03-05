@@ -1494,3 +1494,4 @@
 *://*.erdeally.com/*
 *://*.faipeeji.com/*
 *://*.vooshagy.net/*
+*://*.gfruitiesm.com/*
