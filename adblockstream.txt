@@ -997,7 +997,6 @@
 *://*.origin-ui.revcontent.com/*
 *://*.originhermichermicpros.com/*
 *://*.ositioninyv.biz/*
-*://*.ouo.io/*
 *://*.out.popads.net/*
 *://*.outbrain.com/*
 *://*.outbrainimg.com/*
