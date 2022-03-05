@@ -1492,3 +1492,5 @@
 *://*.itiontowri.com/*
 *://*.riesmyste.xyz/*
 *://*.erdeally.com/*
+*://*.faipeeji.com/*
+*://*.vooshagy.net/*
