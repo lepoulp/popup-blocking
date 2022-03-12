@@ -1494,3 +1494,7 @@
 *://*.faipeeji.com/*
 *://*.vooshagy.net/*
 *://*.gfruitiesm.com/*
+*://*.htanothin.com/*
+*://*.emicalcove.xyz/*
+*://*.dacmaiss.com/*
+*://*.inpage-push.com/*
