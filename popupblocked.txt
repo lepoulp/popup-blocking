@@ -322,7 +322,6 @@
 *://*.audiomax.adswizz.com/*
 *://*.audiomax.devel.adswizz.com/*
 *://*.ausoafab.net/*
-*://*.awin1.com/*
 *://*.b0.bluewinds.xyz/*
 *://*.babysitterpancakerich.com/*
 *://*.backstage.taboola.com/*
@@ -434,7 +433,6 @@
 *://*.clicks.pipaffiliates.com/*
 *://*.clientmetrics.outbrain.com/*
 *://*.clk.rtpdn12.com/*
-*://*.clk.tradedoubler.com/*
 *://*.clusterhurriedly.com/*
 *://*.cm-s1.revcontent.com/*
 *://*.cm.adskeeper.co.uk/*
@@ -796,7 +794,6 @@
 *://*.lettersskirt.icu/*
 *://*.libs.outbrain.com/*
 *://*.likelycatchunhappy.com/*
-*://*.linksynergy.com/*
 *://*.loadtest.propellerads.com/*
 *://*.lockingadmitted.com/*
 *://*.log-ird.outbrain.com/*
@@ -940,7 +937,6 @@
 *://*.offerimage.com/*
 *://*.offers.propellerads.com/*
 *://*.ofreligionrumble.com/*
-*://*.ojrq.net/*
 *://*.oldui.adswizz.com/*
 *://*.omareeper.com/*
 *://*.omarona.com/*
@@ -1019,7 +1015,6 @@
 *://*.prepayproceedingsground.com/*
 *://*.prepenseprepensecubicoperating.com/*
 *://*.preponderantbasisbutterfly.com/*
-*://*.prf.hn/*
 *://*.primevalsymphonymuttering.com/*
 *://*.prltmz.com/*
 *://*.probablpatas.com/*
@@ -1059,7 +1054,6 @@
 *://*.qasite.revcontent.com/*
 *://*.quicklisti.com/*
 *://*.r.mobpartner.mobi/*
-*://*.r.srvtrck.com/*
 *://*.randi.adswizz.com/*
 *://*.rate.outbrain.com/*
 *://*.re-bu-il-der.xyz/*
@@ -1467,7 +1461,6 @@
 *://*.zc.adswizz.com/*
 *://*.zeep.ly/*
 *://*.zem-us-west.outbrain.com/*
-*://*.zenaps.com/*
 *://*.zestradar.com/*
 *://*.zmnkduay.com/*
 *://*.zuphaims.com/*
