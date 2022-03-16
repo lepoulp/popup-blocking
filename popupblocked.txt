@@ -1200,7 +1200,6 @@
 *://*.splendidprizeforyou.com/*
 *://*.splittingpick.com/*
 *://*.spwvl.com/*
-*://*.srvtrck.com/*
 *://*.ssp-fe-us-e1.content.ad/*
 *://*.ssp-fe-us-e2.content.ad/*
 *://*.ssp-notify.propellerads.com/*
