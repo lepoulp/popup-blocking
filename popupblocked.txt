@@ -1,3 +1,5 @@
+*://*.amazonclix.com/*
+*://*.amazonaax.com/*
 *://*.hotjar.com/*
 *://*.pixel.facebook.com/*
 *://*.analytics-api.dvdfab.cn/*
