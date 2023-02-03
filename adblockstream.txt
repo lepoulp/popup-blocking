@@ -17,8 +17,6 @@
 *://*.a0.sweetwinds.xyz/*
 *://*.aa-gb.adskeeper.co.uk/*
 *://*.aa-nb.adskeeper.co.uk/*
-*://*.aan.amazon.com/*
-*://*.aax.amazon-adsystem.com/*
 *://*.ab-config.propellerads.com/*
 *://*.ab-gb.adskeeper.co.uk/*
 *://*.ab-nb.adskeeper.co.uk/*
@@ -104,7 +102,6 @@
 *://*.ae-gb.adskeeper.co.uk/*
 *://*.af-gb.adskeeper.co.uk/*
 *://*.affableindigestionstruggling.com/*
-*://*.affiliate.iqbroker.com/*
 *://*.ag-gb.adskeeper.co.uk/*
 *://*.agacelebir.com/*
 *://*.ah-gb.adskeeper.co.uk/*
@@ -134,7 +131,6 @@
 *://*.am-trc-events.taboola.com/*
 *://*.am-vid-events.taboola.com/*
 *://*.am-wf.taboola.com/*
-*://*.amazon-adsystem.com/*
 *://*.ambientaboveboard.com/*
 *://*.amelia.outbrain.com/*
 *://*.ammaandha.biz/*
@@ -186,7 +182,6 @@
 *://*.assets.revcontent.com/*
 *://*.assets.taboola.com/*
 *://*.assets1.adroll.com/*
-*://*.assoc-amazon.com/*
 *://*.at-gb.adskeeper.co.uk/*
 *://*.audiomax.adswizz.com/*
 *://*.audiomax.devel.adswizz.com/*
@@ -239,7 +234,6 @@
 *://*.byluxrayor.com/*
 *://*.c.adroll.com/*
 *://*.c.adskeeper.co.uk/*
-*://*.c.amazon-adsystem.com/*
 *://*.c.mgid.com/*
 *://*.c.netund.com/*
 *://*.c.vserv.mobi/*
@@ -297,9 +291,6 @@
 *://*.classicalservicewaistcoat.com/*
 *://*.clearchannel.adswizz.com/*
 *://*.clevermillercooperation.com/*
-*://*.click.expmediadirect.com/*
-*://*.clickppc.infolinks.com/*
-*://*.clicks.pipaffiliates.com/*
 *://*.clientmetrics.outbrain.com/*
 *://*.clk.rtpdn12.com/*
 *://*.clusterhurriedly.com/*
@@ -605,7 +596,6 @@
 *://*.internal.revcontent.com/*
 *://*.intouch.adinfuse.com/*
 *://*.ipa.pushwoosh.com/*
-*://*.iqbroker.com/*
 *://*.irkantyip.com/*
 *://*.itchytidying.com/*
 *://*.itdsa-2670.propellerads.com/*
@@ -685,7 +675,6 @@
 *://*.m.infolinks.com/*
 *://*.mackeeperaffiliates.com/*
 *://*.madmin.propellerads.com/*
-*://*.mads.amazon-adsystem.com/*
 *://*.mailing.adswizz.com/*
 *://*.mailingsmtp.adswizz.com/*
 *://*.makerangerdistinct.com/*
@@ -857,7 +846,6 @@
 *://*.phaurtuh.net/*
 *://*.picnicorganizationthigh.com/*
 *://*.pignuwoa.com/*
-*://*.pipaffiliates.com/*
 *://*.pityhostngco2.xyz/*
 *://*.pitysuffix.com/*
 *://*.pixel.facebook.com/*
@@ -939,7 +927,6 @@
 *://*.redirector.popcash.net/*
 *://*.redirectpopads.com/*
 *://*.reewituhinlar.com/*
-*://*.refpa.top/*
 *://*.register.quickorange.net/*
 *://*.remove-ads.xyz/*
 *://*.reports.outbrain.com/*
@@ -1116,7 +1103,6 @@
 *://*.streaming-dev.adswizz.com/*
 *://*.streaming.adswizz.com/*
 *://*.stretchingcognitioncommission.com/*
-*://*.stripchat.com/*
 *://*.studabsently.com/*
 *://*.styleguide.outbrain.com/*
 *://*.submissionhunk.com/*
@@ -1144,7 +1130,6 @@
 *://*.tcheck.outbrainimg.com/*
 *://*.techgus.com/*
 *://*.tellslipstick.com/*
-*://*.terraclicks.com/*
 *://*.terriblekindlypeter.com/*
 *://*.the-best-push-news.com/*
 *://*.thebestgame2020.com/*
@@ -1250,7 +1235,6 @@
 *://*.w1.luckyorange.com/*
 *://*.wafflesgenuine.com/*
 *://*.waisheph.com/*
-*://*.wargaming.net/*
 *://*.warmthlitternonsense.com/*
 *://*.warningoffended.com/*
 *://*.washedinmate.com/*
