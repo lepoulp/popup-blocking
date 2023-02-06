@@ -1343,3 +1343,15 @@
 *://*.emicalcove.xyz/*
 *://*.dacmaiss.com/*
 *://*.inpage-push.com/*
+*://*.dribbleads.com/*
+*://*.admedit.net/*
+*://*.preparedforupdatesforever.click/*
+*://*.owejper.icu/*
+*://*.losik.icu/*
+*://*.drctcldfa.com/*
+*://*.drctcldfafwr.com/*
+*://*.onclickclear.com/*
+*://*.tomladvert.com/*
+*://*.roudoduor.com/*
+*://*.for-j.com/*
+*://*.frocogue.store/*
