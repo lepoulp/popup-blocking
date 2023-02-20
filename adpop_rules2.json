@@ -118,5 +118,5 @@
 {"block": "d.reddit.com"},
 {"block": "rereddit.com"},
 {"block": "events.redditmedia.com"},
-{"block": "ads.youtube.com"},
+{"block": "ads.youtube.com"}
 ]
