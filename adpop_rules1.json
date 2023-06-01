@@ -598,8 +598,6 @@
 {"block": "static.media.net"},
 {"block": "media.net"},
 {"block": "adservetx.media.net"},
-{"block": "doubleclick.net/"},
-{"block": "ad.doubleclick.net/"},
 {"block": "static.doubleclick.net"},
 {"block": "m.doubleclick.net"},
 {"block": "mediavisor.doubleclick.net"},
