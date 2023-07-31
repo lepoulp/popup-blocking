@@ -1,4 +1,4 @@
 [
-{"rdredirect": "reddit.com,facebook.com"},
-{"rdblock": "amazon.com,yahoo.com"}
+{"redirect": "reddit.com,facebook.com"},
+{"block": "amazon.com,yahoo.com"}
 ]
