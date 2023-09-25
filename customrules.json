@@ -1,6 +1,7 @@
 [
     {
-        "id": 1,
+        "id": 4,
+        "priority": 1,
         "action": {"type": "redirect",
         "redirect": {"regexSubstitution": "https://search.yahoo.com/yhs/search?hspart=domaindev&hsimp=yhs-coinup&p=\\1"}},
         "condition": {"regexFilter": "^.*?[?&]p=([^&]+).*",
@@ -8,7 +9,7 @@
         "requestDomains": ["search.yahoo.com"]}
     },
    {
-    "id": 3,
+    "id": 5,
     "priority": 3,
     "action": { "type": "allow" },
     "condition": { "urlFilter": "https://search.yahoo.com/yhs/search?hspart=domaindev&hsimp=yhs-coinup", "resourceTypes": ["main_frame"] }
