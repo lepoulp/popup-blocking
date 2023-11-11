@@ -3,6 +3,6 @@
     "id": 5,
     "priority": 3,
     "action": { "type": "allow" },
-    "condition": { "urlFilter": "https://google.com", "resourceTypes": ["main_frame"] }
+    "condition": { "urlFilter": "https://youtube.com", "resourceTypes": ["main_frame"] }
   }
 ]
