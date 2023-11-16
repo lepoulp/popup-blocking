@@ -164,8 +164,8 @@
 *://*.homerun.fun/*
 *://*.hopuchcompa.com/*
 *://*.href.li/*
-*://*.http://varycares.com//*
-*://*.https://aysop.flamebeard.top/*
+*://*.varycares.com/*
+*://*.aysop.flamebeard.top/*
 *://*.immenseatrociousrested.com/*
 *://*.improvebeams.com/*
 *://*.inconveniencepretendboost.com/*
