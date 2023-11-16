@@ -598,7 +598,6 @@
 {"redirect": "goldpopupblocker.com"},
 {"redirect": "golnolsy.xyz"},
 {"redirect": "good-beastnow.com"},
-{"redirect": "google.co.in"},
 {"redirect": "goosebomb.com"},
 {"redirect": "gossipprotectioncredentials.com"},
 {"redirect": "goto.trackpshgoto.win"},
@@ -1719,6 +1718,5 @@
 {"block": "ads.reddit.com"},
 {"block": "d.reddit.com"},
 {"block": "rereddit.com"},
-{"block": "events.redditmedia.com"},
-{"block": "ads.youtube.com"}
+{"block": "events.redditmedia.com"}
 ]
