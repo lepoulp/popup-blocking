@@ -541,7 +541,6 @@
 *://*.ads.reddit.com/*
 *://*.ads.tiktok.com/*
 *://*.ads.vserv.mobi/*
-*://*.ads.youtube.com/*
 *://*.ads1-adnow.com/*
 *://*.ads1.mojiva.com/*
 *://*.ads2-adnow.com/*
@@ -1003,7 +1002,6 @@
 *://*.go2affise.com/*
 *://*.gofenews.com/*
 *://*.golds.lp.mydas.mobi/*
-*://*.google-analytics.com/*
 *://*.gordonua.com/*
 *://*.gp.trcked.me/*
 *://*.gparse.propellerads.com/*
@@ -1853,7 +1851,6 @@
 *://*.ycurrentjobis.biz/*
 *://*.yofdifferents.biz/*
 *://*.youradexchange.com/*
-*://*.youtube.cleverads.vn/*
 *://*.ytb.click/*
 *://*.z.cdn.trafficdok.com/*
 *://*.zauglomo.net/*
