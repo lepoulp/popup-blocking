@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": 2,
         "priority": 1,
         "action": {"type": "block"},
 	"condition": {
@@ -9,7 +9,7 @@
         }
     },
    {
-    "id": 2,
+    "id": 3,
     "priority": 3,
     "action": { "type": "allow" },
     "condition": { "urlFilter": "https://youtube.com", "resourceTypes": ["main_frame"] }
