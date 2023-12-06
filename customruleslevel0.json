@@ -2,7 +2,7 @@
    {
     "id": 5,
     "priority": 3,
-    "action": { "type": "allow" },
-    "condition": { "urlFilter": "https://youtube.com", "resourceTypes": ["main_frame"] }
+     "action": { "type": "allowAllRequests" },
+    "condition": { "urlFilter": "https://youtube.com", "resourceTypes": ["main_frame", "sub_frame"] }
   }
 ]
