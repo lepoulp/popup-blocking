@@ -13,5 +13,11 @@
     "priority": 3,
     "action": { "type": "allow" },
     "condition": { "urlFilter": "https://search.yahoo.com/yhs/search?hspart=domaindev&hsimp=yhs-coinup", "resourceTypes": ["main_frame"] }
+  },
+    {
+    "id": 6,
+    "priority": 3,
+     "action": { "type": "allowAllRequests" },
+    "condition": { "urlFilter": "https://youtube.com", "resourceTypes": ["main_frame", "sub_frame"] }
   }
 ]
