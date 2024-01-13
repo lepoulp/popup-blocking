@@ -19,16 +19,6 @@
     "id": 3,
     "priority": 3,
     "action": { "type": "allowAllRequests" },
-    "condition": { "urlFilter": "https://youtube.com", "resourceTypes": ["image",
-    "media",
-    "main_frame",
-    "sub_frame",
-    "stylesheet",
-    "script",
-    "font",
-    "xmlhttprequest",
-    "ping",
-    "websocket",
-    "other"] }
+    "condition": { "urlFilter": "https://youtube.com", "resourceTypes": ["main_frame","sub_frame"] }
   }
 ]
