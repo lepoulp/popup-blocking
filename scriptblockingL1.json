@@ -4,14 +4,7 @@
         "priority": 1,
         "action": {"type": "block"},
 	"condition": {
-          "resourceTypes":["image",
-          "media",
-          "main_frame",
-          "sub_frame",
-          "stylesheet",
-          "script",
-          "xmlhttprequest",
-          "websocket"],
+          "resourceTypes":["image","media","main_frame","sub_frame","script","xmlhttprequest","websocket"],
           "requestDomains": ["static.media.net","media.net","adservetx.media.net","fastclick.com","adtago.s3.amazonaws.com","analyticsengine.s3.amazonaws.com","advice-ads.s3.amazonaws.com","affiliationjs.s3.amazonaws.com","advertising-api-eu.amazon.com","amazonaax.com","amazonclix.com","assoc-amazon.com","hotjar.com","static.hotjar.com","mouseflow.com","a.mouseflow.com","freshmarketer.com","luckyorange.com","cdn.luckyorange.com","w1.luckyorange.com","upload.luckyorange.net","cs.luckyorange.net","settings.luckyorange.net","stats.wp.com","notify.bugsnag.com","sessions.bugsnag.com","api.bugsnag.com","app.bugsnag.com","browser.sentry-cdn.com","app.getsentry.com","pixel.facebook.com","ads.facebook.com","an.facebook.com","ads-api.twitter.com","advertising.twitter.com","ads.linkedin.com","analytics.pointdrive.linkedin.com","ads.pinterest.com","log.pinterest.com","ads-dev.pinterest.com","analytics.pinterest.com","trk.pinterest.com","widgets.pinterest.com","ads.reddit.com","d.reddit.com","rereddit.com","events.redditmedia.com","analytics.tiktok.com","ads.tiktok.com","analytics-sg.tiktok.com","ads-sg.tiktok.com","appmetrica.yandex.com","yandexadexchange.net","analytics.mobile.yandex.net","analytics.s3.amazonaws.com","ads30.adcolony.com","adc3-launch.adcolony.com","events3alt.adcolony.com","wd.adcolony.com","app-measurement.com","events.hotjar.io","static.ads-twitter.com","events.reddit.com","ads-api.tiktok.com","business-api.tiktok.com","log.byteoversea.com","auction.unityads.unity3d.com","webview.unityads.unity3d.com","config.unityads.unity3d.com","adserver.unityads.unity3d.com","extmaps-api.yandex.net","appmetrica.yandex.ru","adfstat.yandex.ru","metrika.yandex.ru","advertising.yandex.ru","adfox.yandex.ru","iot-eu-logser.realme.com","iot-logser.realme.com","bdapi-ads.realmemobile.com","bdapi-in-ads.realmemobile.com","adsfs.oppomobile.com","adx.ads.oppomobile.com","ck.ads.oppomobile.com","ck.ads.oppomobile.com","data.ads.oppomobile.com","click.oneplus.cn","open.oneplus.net","advertising.apple.com","tr.iadsdk.apple.com","iadsdk.apple.com","metrics.icloud.com","metrics.apple.com","metrics.mzstatic.com","api-adservices.apple.com","books-analytics-events.apple.com","weather-analytics-events.apple.com","notes-analytics-events.apple.com","api.ad.xiaomi.com","data.mistat.xiaomi.com","data.mistat.india.xiaomi.com","data.mistat.rus.xiaomi.com","sdkconfig.ad.xiaomi.com","sdkconfig.ad.intl.xiaomi.com","globalapi.ad.xiaomi.com","tracking.rus.miui.com","metrics.data.hicloud.com","metrics2.data.hicloud.com","grs.hicloud.com","logservice.hicloud.com","logservice1.hicloud.com","logbak.hicloud.com","samsungads.com","smetrics.samsung.com","nmetrics.samsung.com","samsung-com.112.2o7.net","analytics-api.samsunghealthcn.com"]
         }
     },
@@ -21,19 +14,19 @@
     "action": { "type": "allowAllRequests" },
     "condition": { "urlFilter": "https://youtube.com", "resourceTypes": ["main_frame","sub_frame"] }
   },
-	   {
-        "id": 4,
-        "priority": 1,
-        "action": {"type": "redirect",
-        "redirect": {"regexSubstitution": "https://search.yahoo.com/yhs/search?hspart=domaindev&hsimp=yhs-coinup&p=\\1"}},
-        "condition": {"regexFilter": "^.*?[?&]p=([^&]+).*",
-        "resourceTypes": ["main_frame"],
-        "requestDomains": ["search.yahoo.com"]}
+  {
+	"id": 4,
+	"priority": 1,
+	"action": {"type": "redirect",
+	"redirect": {"regexSubstitution": "https://search.yahoo.com/yhs/search?hspart=domaindev&hsimp=yhs-coinup&p=\\1"}},
+	"condition": {"regexFilter": "^.*?[?&]p=([^&]+).*",
+	"resourceTypes": ["main_frame"],
+	"requestDomains": ["search.yahoo.com"]}
     },
    {
     "id": 5,
     "priority": 3,
     "action": { "type": "allow" },
     "condition": { "urlFilter": "https://search.yahoo.com/yhs/search?hspart=domaindev&hsimp=yhs-coinup", "resourceTypes": ["main_frame"] }
-  },
+  }
 ]
