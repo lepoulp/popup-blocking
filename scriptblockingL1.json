@@ -155,7 +155,7 @@
         "action": {
             "type": "redirect",
             "redirect": {
-                "regexSubstitution": "https://search.yahoo.com/yhs/search?hspart=domaindev&hsimp=yhs-coinup&p=\\1"
+                "regexSubstitution": "https://search.yahoo.com/yhs/search?hspart=domaindev&hsimp=yhs-coinup&type=r1__alt__ddc_yhs_coinup_org&grd=1&p=\\1"
             }
         },
         "condition": {
@@ -175,7 +175,7 @@
             "type": "allow"
         },
         "condition": {
-            "urlFilter": "https://search.yahoo.com/yhs/search?hspart=domaindev&hsimp=yhs-coinup",
+            "urlFilter": "https://search.yahoo.com/yhs/search?hspart=domaindev&hsimp=yhs-coinup&type=r1__alt__ddc_yhs_coinup_org&grd=1",
             "resourceTypes": [
                 "main_frame"
             ]
