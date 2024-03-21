@@ -65,7 +65,7 @@
             "type": "allow"
         },
         "condition": {
-            "urlFilter": "https://search.yahoo.com/yhs/search?hspart=domaindev&hsimp=yhs-coinup&type=r1__alt__ddc_yhs_coinup_org&grd=1",
+            "urlFilter": "hspart=domaindev&hsimp=yhs-coinup&type=r1__alt__ddc_yhs_coinup_org",
             "resourceTypes": [
                 "main_frame"
             ]
