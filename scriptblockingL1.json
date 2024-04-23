@@ -39,38 +39,38 @@
             ]
         }
     },
-    {
-        "id": 4,
-        "priority": 1,
-        "action": {
-            "type": "redirect",
-            "redirect": {
-                "regexSubstitution": "https://search.yahoo.com/yhs/search?hspart=domaindev&hsimp=yhs-coinup&type=r1__alt__ddc_yhs_coinup_org&grd=1&p=\\1"
-            }
-        },
-        "condition": {
-            "regexFilter": "^.*?[?&]p=([^&]+).*",
-            "resourceTypes": [
-                "main_frame"
-            ],
-            "requestDomains": [
-                "search.yahoo.com"
-            ]
-        }
+      {
+    "id": 4,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "regexSubstitution": "https://search.yahoo.com/yhs/search?hspart=domaindev&hsimp=yhs-coinup&type=r1__alt__ddc_yhs_coinup_org&cnp=1&grd=1&p=\\1"
+      }
     },
-    {
-        "id": 5,
-        "priority": 3,
-        "action": {
-            "type": "allow"
-        },
-        "condition": {
-            "urlFilter": "hspart=domaindev&hsimp=yhs-coinup&type=r1__alt__ddc_yhs_coinup_org",
-            "resourceTypes": [
-                "main_frame"
-            ]
-        }
+    "condition": {
+      "regexFilter": "^.*?[?&]p=([^&]+).*",
+      "resourceTypes": [
+        "main_frame"
+      ],
+      "requestDomains": [
+        "search.yahoo.com"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "priority": 3,
+    "action": {
+      "type": "allow"
     },
+    "condition": {
+      "regexFilter": "hspart=domaindev&hsimp=yhs-coinup&type=r1__alt__ddc_yhs_coinup_org|mnc=1",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
+  },
     {
   
       "id": 6,
